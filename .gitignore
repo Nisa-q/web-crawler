@@ -1,2 +1,21 @@
 node_modules/
 .env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Next.js
+.next/
+out/
+
+# Yerel ayarlar
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+
